@@ -1,2 +1,2 @@
 # TinDog-Start
-My first responsive website.
+Responsive website challenge.
